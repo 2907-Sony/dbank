@@ -24,16 +24,15 @@ This project demonstrates how smart contracts (canisters) can securely store and
 
 
 ## 📁 Project Structure
-dbank/
-├── src/
-│ ├── dbank_backend/ # Motoko smart contract
-│ ├── dbank_frontend/ # Frontend application
-│
-├── dfx.json
-├── package.json
-└── README.md
+dbank/src/dbank_backend/ # Motoko smart contract and  dbank_frontend/ # Frontend application
+|
+dfx.json
+|
+package.json
+|
+README.md
 
-## ▶️ Running Locally (Optional)
+## ▶️ Running Locally 
 
 This project can be run locally using the Internet Computer SDK.
 
